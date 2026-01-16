@@ -3,6 +3,7 @@
 takasoft社製の次世代CSV閲覧ツール「CSV-Previewer」の操作マニュアルを作成いたしました．
 このドキュメントは，直感的なUIと強力なプレビュー機能を最大限に活用するためのガイドです．
 
+![2026-01-16_11h25_00](https://github.com/user-attachments/assets/aca410ea-a2a7-46a1-9521-529f900d3a01)
 
 ---
 
